@@ -136,15 +136,15 @@ git push heroku master
 
 [Connecting to Relational Databases on Heroku with Java](https://devcenter.heroku.com/articles/connecting-to-relational-databases-on-heroku-with-java)
 
-Or on heroku webapp: Connect to Github...
+Or on heroku webapp: Connect to GitHub...
 
 Or you can [deploy a jar/war file](https://github.com/heroku/heroku-cli-deploy)
 
-### Intro to Github actions
+### Intro to GitHub actions
 
 [Quickstart for GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
-### Use Github actions to implement CI/CD
+### Use GitHub actions to implement CI/CD
 
 ## Jenkins
 
